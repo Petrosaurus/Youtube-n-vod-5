@@ -1,0 +1,8 @@
+name: EntitaPrikaz
+version: 1.0
+author: Petrosaurus
+main: me.Petrosaurus.EntityPrikaz.Main
+description: irnof
+commands: 
+    spawnentity:
+         description: bhkfj
